@@ -30,7 +30,7 @@ twwitter_username: ""
 github_username:  jdstuart
 
 # Build settings
-theme: ekyll-theme-cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
